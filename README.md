@@ -87,9 +87,5 @@ Sơ đồ tổng thể:
 - Thiết kế bảng DIM_CUSTOMER_SCD để lưu lịch sử khách hàng (thêm cột starting_date, ending_date, status_flag)
 - Mapping nâng cao: khi thông tin khách hàng thay đổi, insert dòng mới và cập nhật trạng thái cho bản ghi cũ
 
-
-- Pull request, issue hoặc góp ý xin gửi về [link GitHub hoặc email]
-- Rất hoan nghênh mọi đóng góp giúp hoàn thiện dự án hơn nữa!
-
 ---
 
